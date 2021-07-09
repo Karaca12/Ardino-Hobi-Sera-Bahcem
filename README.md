@@ -1,6 +1,6 @@
 # Ardino-Hobi-Sera-Bahcem
 
-**Sera sistemlerinin çok fahis fiyatlara satıldığını görünce şaşırdım.Gönül rahatlığıyla kullana bilirsiniz...**
+**Sera sistemlerinin çok fahiş fiyatlara satıldığını görünce şaşırdım.Gönül rahatlığıyla kullana bilirsiniz...**
 Ardino ile 2019 da gerçekleştirdiğim, sera projem.  
 
 Not1: Mahsüllerimi aldım sıra sizde...
