@@ -9,7 +9,6 @@
 
 DHT dht =DHT(dataPin,DHTType);
 
-/*###############*/
 
 /*pinler##########*/
 
@@ -18,7 +17,7 @@ int role1=13;
 int buton=3;
 int durum=0;
 
-/*################*/
+
 
 
 
@@ -53,9 +52,7 @@ if(digitalRead(buton)==1){
     }
     delay(1000);
 
- 
 
-   
 
 
 
@@ -69,13 +66,12 @@ Serial.print(sicak,2);//Sıcaklık Verisi
 Serial.println();
 delay(1000);
 
-/*##############*/
 
 /*sistem########*/
 
 sistem(nem);
 
-/*#############*/
+
 
 }
 
@@ -97,7 +93,7 @@ void sislemekapat(){
 void sistem(int nem){
 
  
- if(nem<70){//şuanda role kapalıyken açık açıkken kapalı çalışıyor yani değilleme mevcut ancak doğru olup olmadığını henüz belirleyemedim.
+ if(nem<70){//şuanda role kapalıyken açık açıkken kapalı çalışıyor yani değilleme mevcut.
     
  sislemekapat();
     
