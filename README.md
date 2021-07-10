@@ -7,7 +7,7 @@ Not1: Mahsüllerimi aldım sıra sizde...
 <br>
 **Not2: Ekran ekleme gereksinimi duymadım.Hobi amaçlı yaptığım için.** 
 <br>
-**Not3: Sıcaklık ve nem ayarını yetiştireceğiniz organizma(bitki) için kendiniz kodlardan değiştirerek ayarlamalısınız...**
+**Not3: Sıcaklık ve nem ayarını yetiştireceğiniz organizma(bitki) için kendiniz değişken değerlerini  değiştirerek ayarlamalısınız...**
 
 
 **Bu resime bakarak kod da hangi değişkenin neyi temsil ettiğini rahatlıkla anlayabilirsiniz***
