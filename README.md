@@ -5,7 +5,7 @@ Ardino ile 2019 da gerçekleştirdiğim, sera projem.
 
 Not1: Mahsüllerimi aldım sıra sizde...
 <br>
-**Not2: Ekran ekleme gereksinimi duymadım.Hobi amaçlı yaptığım için.** 
+**Not2: Ekran ekleme gereksinimi duymadım.Kendi işim olduğu için.** 
 <br>
 **Not3: Sıcaklık ve nem ayarını yetiştireceğiniz organizma(bitki) için kendiniz değişken değerlerini  değiştirerek ayarlamalısınız...**
 
