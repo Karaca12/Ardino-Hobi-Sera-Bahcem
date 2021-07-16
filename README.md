@@ -3,7 +3,7 @@
 **Sera sistemlerinin çok fahiş fiyatlara satıldığını görünce şaşırdım.Gönül rahatlığıyla kullana bilirsiniz...**
 Ardino ile 2019 da gerçekleştirdiğim, sera projem.  
 
-Not1: Mahsüllerimi aldım sıra sizde...
+
 <br>
 **Not2: Ekran ekleme gereksinimi duymadım.Kendi işim olduğu için.** 
 <br>
