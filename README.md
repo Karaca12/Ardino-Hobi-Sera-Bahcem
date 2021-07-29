@@ -11,8 +11,9 @@ Ardino ile 2019 da gerçekleştirdiğim, sera projem.
 
 
 **Bu resime bakarak kod da hangi değişkenin neyi temsil ettiğini rahatlıkla anlayabilirsiniz***
+Mekanik aksamda : 
+DHT22 nem ve sıcaklık ölçer sensörü kullanmanızı tavsiye ederim. ben bu sensörü aldığım için bu kütüphane import edildi.
+
 <img align="left" width="900" height="500" src="https://github.com/Karaca12/Ardino-Hobi-Sera-Bahcem/blob/main/Sanateserim.png">
 
 
-Mekanik aksamda : 
-DHT22 nem ve sıcaklık ölçer sensörü kullanmanızı tavsiye ederim. ben bu sensörü aldığım için bu kütüphane import edildi.
