@@ -18,3 +18,4 @@ DHT22 nem ve sıcaklık ölçer sensörü kullanmanızı tavsiye ederim. ben bu 
 
 
 
+
